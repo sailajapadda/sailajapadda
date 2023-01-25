@@ -5,4 +5,3 @@
 - 🌱 I’m currently learning ...Pyhton
 - 💬 Ask me about ...computer
 - 📫 How to reach me
-
